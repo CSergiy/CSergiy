@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **techniques in Machine Learning, Natural Language Processing, and Deep Learning.**
 
-- 👯 I’m looking to collaborate on **projects that leverage ML & NLP to draw insights and solve complex problems.**
-
-- 🤝 I’m looking for help with **improving my understanding & application of advanced machine learning algorithms and deep learning.**
+- 👯 I’m looking to collaborate on **projects that leverage ML & NLP to draw insights and solve problems.**
 
 - 📫 How to reach me **sergiy12422@gmail.com**
 
