@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergiy</h1>
 <h3 align="center">Data Scientist from Toronto, Canada</h3>
 
-- 🌱 I’m currently learning **techniques in Machine Learning, Natural Language Processing, and Deep Learning.**
-
-- 👯 I’m looking to collaborate on **projects that leverage ML & NLP to draw insights and solve problems.**
+- 👯 Data Analysis\NLP\ML Focus
 
 - 📫 How to reach me **sergiy12422@gmail.com**
 
